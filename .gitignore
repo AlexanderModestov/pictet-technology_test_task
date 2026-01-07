@@ -2,6 +2,7 @@
 __pycache__/
 */__pycache__/
 src
+deploy
 
 # Environment
 .env
