@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*/__pycache__/
+src
+
+# Environment
+.env
+.venv
+
+# Project specific
+data/*
